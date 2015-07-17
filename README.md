@@ -51,3 +51,7 @@ Festlegung des Instruments zur Zielumsetzung, beispielsweise *Umsetzung nach Anl
 Konkreter Vorschlag zur Zielumsetzung.
 
 *Beispielsweise Anlageklassenstruktur*
+
+# Lösungsweg
+
+Zu verorten!
