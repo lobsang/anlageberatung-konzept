@@ -1,6 +1,24 @@
 # Anlageberatung Konzepte
 
-# Zielmark
+Dieses Dokument trägt die Konzepte zusammen, die wiederkehrend in jeder Anlageberatung auftreten.
+
+## Bank
+
+Die Bank verfolgt in der Anlageberatung ihre Interessen. Primär verfolgt die Bank mit der Anlageberatung eines Kunden den Zweck, diesen Kunden rechtskonform, basierend auf seinen Einstellungen und Eigenschaften, "gut" zu beraten. 
+
+Neben diesem Primärzweck verfolgt die Bank weitere Randziele:
+- Sammlung von Informationen über die Vermögenssituation eines Kunden
+- Verkauf vom Institut angebotener Produkte
+
+## Kunde
+
+Der Kunde verfolgt mit der Anlageberatung das Primärziel, sein Vermögen gemäß seiner Zielvorstellungen anzulegen.
+
+## Kundeneigenschaften
+
+## Ziel
+
+## Zielmark
 
 Die Bank legt Zielmärkte fest, indem Sie Ihren Kundenstamm anhand einer bestimmten Menge von Eigenschaften partitioniert.
 
@@ -14,4 +32,22 @@ Zu diesem Zweck leitet die Bank für ihre Zielmärkte Produktkriterien ab, die d
 
 Ein Produkt kann problemlos für mehrere Zielmarkte geeignet sein.
 
+## Zielmarkkriterium Kundeneigenschaften
 
+## Zielmarkkriterium Produkteigenschaften
+
+## Produkte
+
+## Zielumsetzung
+
+Innerhalb der Anlageberatung werden die Kundenziele umgesetzt. Dies geschieht auf Basis der dem Ziel enstprechenden Zielumsetzungsstrategie unter einer konkreten Empfehlung zur Umsetzung, der sog. *Zielumsetzungsvorschlag*.
+
+## Zielumsetzungsstrategie
+
+Festlegung des Instruments zur Zielumsetzung, beispielsweise *Umsetzung nach Anlageklassenstruktur* oder *Umsetzung nach Risiko*.
+
+## Zielumsetzungsvorschlag
+
+Konkreter Vorschlag zur Zielumsetzung.
+
+*Beispielsweise Anlageklassenstruktur*
